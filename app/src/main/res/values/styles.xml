@@ -1,0 +1,14 @@
+<resources>
+    <style name="AppThemeLight" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimaryLight</item>
+        <item name="colorPrimaryDark">@color/colorSecondaryLight</item>
+        <item name="colorAccent">@color/colorAccentLight</item>
+        <item name="android:textColor">@color/colorTextLight</item>
+        <item name="android:colorBackground">@color/colorBackgroundLight</item>
+    </style>
+    <style name="SwitchTheme">
+        <item name="colorControlActivated">@color/colorPrimaryDark</item>
+        <item name="colorSwitchThumbNormal">@color/colorPrimaryLight</item>
+        <item name="android:colorForeground">@color/colorPrimaryLight</item>
+    </style>
+</resources>

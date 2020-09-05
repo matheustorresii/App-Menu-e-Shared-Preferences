@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/main_menu">
+        <item
+            android:title="Light Theme"
+            android:id="@+id/lightThemeMenu"/>
+
+        <item
+            android:title="Dark Theme"
+            android:id="@+id/darkThemeMenu"/>
+    </group>
+</menu>
